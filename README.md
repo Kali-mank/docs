@@ -1,32 +1,34 @@
-## docsify
+# 目录
 
-> 一个神奇的文档网站生成器。
+> Learning by doing. Learning by teaching.
 
-## 概述
+## 我爱写代码
 
-docsify 可以快速帮你生成文档网站。不同于 GitBook、Hexo 的地方是它不会生成静态的 `.html` 文件，所有转换工作都是在运行时。如果你想要开始使用它，只需要创建一个 `index.html` 就可以开始编写文档并直接[部署在 GitHub Pages](zh-cn/deploy.md)。
+[Python](Python/README.md)：Python基础、爬虫、搭建博客、数据可视化、自动化办公、聊天机器人等
 
-查看[快速开始](zh-cn/quickstart.md)了解详情。
+[C#](CSharp/README.md)
 
-## 特性
+Java
 
-- 无需构建，写完文档直接发布
-- 容易使用并且轻量 (压缩后 ~21kB)
-- 智能的全文搜索
-- 提供多套主题
-- 丰富的 API
-- 支持 Emoji
-- 兼容 IE11
-- 支持服务端渲染 SSR ([示例](https://github.com/docsifyjs/docsify-ssr-demo))
+[其他](Study/README.md)：搭建博客、Markdown
 
-## 示例
+## 不爱学英语
 
-可以查看 [Showcase](https://github.com/docsifyjs/docsify/#showcase) 来了解更多在使用 docsify 的文档项目。
+[十二天突破英汉翻译笔记](English/1.md)
 
-## 捐赠
+## 主业磁共振
 
-如果你觉得 docsify 对你有帮助，或者想对我微小的工作一点资瓷，欢迎给我[捐赠](https://github.com/QingWei-Li/donate)。
+[医学图像、磁共振相关算法研究](MRI/README.md)
 
-## 社区
+## 副业啥都干
 
-在 [Discord](https://discord.gg/3NwKFyR) 的社区里可以找到 docsify 的用户和开发者团队。
+[Office相关软件，PPT、Excel等](Office/README.md) 
+
+## 艺术熏陶下
+
+[阅读](Read/README.md)、[书法](Art/Calligraphy.md)、[绘画](Art/Procreate.md)
+
+## [生活美滋滋](Life/README.md)
+
+个人总结、生活攻略、旅行攻略等
+
