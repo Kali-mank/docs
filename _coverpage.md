@@ -1,15 +1,11 @@
+![logo](https://mank.cc/wp-content/uploads/2022/04/QQ%E5%9B%BE%E7%89%8720220419072904.jpg)
 
-<!-- _coverpage.md -->
+# 个人主页
 
-# docsify <small>3.5</small>
+> 努力，奋斗！
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#quick-start)
+- 上进，上进，还是TMD的上进！
 
-<!-- 背景图片 -->
-
-![](_media/bg.png)
-
-<!-- 背景色 -->
-
-![color](#f0f0f0)
+[学习](...)
+[积极](...)
+[健身](...)
